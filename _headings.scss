@@ -7,35 +7,35 @@
 h1,
 .#{$tree-namespace}alpha,
 %#{$tree-namespace}alpha {
-    @include inuit-font-size($tree-heading-size-1);
+    @include font-size($tree-heading-size-1);
 }
 
 h2,
 .#{$tree-namespace}beta,
 %#{$tree-namespace}beta {
-    @include inuit-font-size($tree-heading-size-2);
+    @include font-size($tree-heading-size-2);
 }
 
 h3,
 .#{$tree-namespace}gamma,
 %#{$tree-namespace}gamma {
-    @include inuit-font-size($tree-heading-size-3);
+    @include font-size($tree-heading-size-3);
 }
 
 h4,
 .#{$tree-namespace}delta,
 %#{$tree-namespace}delta {
-    @include inuit-font-size($tree-heading-size-4);
+    @include font-size($tree-heading-size-4);
 }
 
 h5,
 .#{$tree-namespace}epsilon,
 %#{$tree-namespace}epsilon {
-    @include inuit-font-size($tree-heading-size-5);
+    @include font-size($tree-heading-size-5);
 }
 
 h6,
 .#{$tree-namespace}zeta,
 %#{$tree-namespace}zeta {
-    @include inuit-font-size($tree-heading-size-6);
+    @include font-size($tree-heading-size-6);
 }
