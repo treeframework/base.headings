@@ -1,6 +1,6 @@
 {
   "name": "tree-headings",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "homepage": "https://github.com/treeframework/base.headings",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>"
@@ -13,7 +13,7 @@
   ],
   "license": "Apache",
   "dependencies": {
-    "tree-defaults": "~0.1.0",
-    "tree-mixins": "~0.2.1"
+    "tree-defaults": "latest",
+    "tree-mixins": "latest"
   }
 }
