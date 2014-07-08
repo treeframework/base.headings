@@ -1,41 +1,43 @@
-///*------------------------------------*\
-//    #HEADINGS
-//\*------------------------------------*/
+// *************************************
+//
+//   #HEADINGS
+//
+// *************************************
 
 // Headings 1–6, with corresponding Greek-alphabet abstract classes for double-
 // stranded heading hierarchy: csswizardry.com/2012/02/pragmatic-practical-font-sizing-in-css
 h1,
 .#{$tree-namespace}alpha,
 %#{$tree-namespace}alpha {
-    @include font-size($tree-heading-size-1);
+    @include tree-font-size($tree-heading-size-1);
 }
 
 h2,
 .#{$tree-namespace}beta,
 %#{$tree-namespace}beta {
-    @include font-size($tree-heading-size-2);
+    @include tree-font-size($tree-heading-size-2);
 }
 
 h3,
 .#{$tree-namespace}gamma,
 %#{$tree-namespace}gamma {
-    @include font-size($tree-heading-size-3);
+    @include tree-font-size($tree-heading-size-3);
 }
 
 h4,
 .#{$tree-namespace}delta,
 %#{$tree-namespace}delta {
-    @include font-size($tree-heading-size-4);
+    @include tree-font-size($tree-heading-size-4);
 }
 
 h5,
 .#{$tree-namespace}epsilon,
 %#{$tree-namespace}epsilon {
-    @include font-size($tree-heading-size-5);
+    @include tree-font-size($tree-heading-size-5);
 }
 
 h6,
 .#{$tree-namespace}zeta,
 %#{$tree-namespace}zeta {
-    @include font-size($tree-heading-size-6);
+    @include tree-font-size($tree-heading-size-6);
 }
