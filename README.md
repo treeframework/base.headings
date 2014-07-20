@@ -1,8 +1,14 @@
 # Headings
 
-The `headings` module is an exact clone of [base.headings] (https://github.com/inuitcss/base.headings)
-<q>defines font sizes for base-level heading elements from `h1` through to `h6`</q>.
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+The `headings` module defines font sizes for base-level heading elements from
+`h1` through to `h6`.
 
-* Project GitHub repo: [https://github.com/inuitcss] (https://github.com/inuitcss).
+Install using Bower:
+
+    $ bower install --save tree-headings
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
 
