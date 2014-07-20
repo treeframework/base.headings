@@ -6,6 +6,15 @@
 
 // Headings 1–6, with corresponding Greek-alphabet abstract classes for double-
 // stranded heading hierarchy: csswizardry.com/2012/02/pragmatic-practical-font-sizing-in-css
+
+// Predefine the variables below in order to alter and enable specific features.
+$tree-heading-size-1:  36px !default;
+$tree-heading-size-2:  30px !default;
+$tree-heading-size-3:  24px !default;
+$tree-heading-size-4:  20px !default;
+$tree-heading-size-5:  16px !default;
+$tree-heading-size-6:  14px !default;
+
 h1,
 .#{$tree-namespace}alpha,
 %#{$tree-namespace}alpha {
