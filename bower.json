@@ -1,10 +1,10 @@
 {
   "name": "tree-headings",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "homepage": "https://github.com/treeframework/base.headings",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>",
-    "Ilia Kolev <contact@iliakolev.com>"
+    "Ilia Kolev <info@iliakolev.com>"
   ],
   "description": "Base heading styles",
   "main": "_headings.scss",
