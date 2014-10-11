@@ -1,19 +1,22 @@
 {
   "name": "tree-headings",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "homepage": "https://github.com/treeframework/base.headings",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>",
     "Ilia Kolev <info@iliakolev.com>"
   ],
   "description": "Base heading styles",
-  "main": "_headings.scss",
+  "main": "_base.headings.scss",
+  "ignore": [
+    "*.md"
+  ],
   "keywords": [
     "css"
   ],
   "license": "Apache",
   "dependencies": {
-    "tree-defaults": "latest",
-    "tree-mixins": "latest"
+    "tree-defaults": "~0.2.4",
+    "tree-mixins": "~0.3.4"
   }
 }
