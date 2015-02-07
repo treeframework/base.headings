@@ -5,7 +5,15 @@ The `headings` module defines font sizes for base-level heading elements from
 
 Install using Bower:
 
-    $ bower install --save tree-headings
+```sh
+$ bower install treeframework-headings --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-headings --save
+```
 
 ## Credits
 
