@@ -23,7 +23,7 @@ You can install the `headings` module via Bower, npm, or copy and paste.
 $ bower install treeframework-headings --save
 ```
 
-Once installed, `@import` into your project in its Object layer:
+Once installed, `@import` into your project in its Base layer:
 
 ```scss
 @import "bower_components/tree-headings/base.headings";
@@ -39,7 +39,7 @@ $ npm install tree-headings --save
 
 The least recommended option for installation is to simply download
 `_base.headings.scss` into your project and `@import` it into your project in
-its Object layer.
+its Base layer.
 
 ## Credits
 
