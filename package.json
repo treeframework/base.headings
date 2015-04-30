@@ -7,7 +7,7 @@
     "url": "https://github.com/treeframework/base.headings/issues"
   },
   "dependencies": {
-    "tree-mixins": "~0.4.1"
+    "tree-font-size": "~0.1.0"
   },
   "homepage": "https://github.com/treeframework/base.headings",
   "keywords": [

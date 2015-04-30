@@ -7,7 +7,7 @@ The `headings` module defines font sizes for base-level heading elements from
 
 The `headings` module depends on one other module:
 
-* [tools.mixins](https://github.com/treeframework/tools.mixins)
+* [tools.font-size](https://github.com/treeframework/tools.font-size)
 
 If you install the `headings` module using Bower or npm, you will get these 
 dependencies at the same time. If not using Bower or npm, please be sure to 
